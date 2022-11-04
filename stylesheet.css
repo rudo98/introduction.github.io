@@ -19,7 +19,8 @@ li {
 }
 
 .main {
-  ;
+  background-image: url(IMG_0228.jpg);
+  background-size: cover;
 }
 
 .copy-container h1 {
